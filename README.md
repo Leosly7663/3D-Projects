@@ -2,7 +2,6 @@
 These are some of my out of 3D projects including, Unity game development / 3D modeling, and engineering model design
 
 ![image](Screenshot(15).png)
-![image](Screenshot(16).png)
 ![image](Screenshot(17).png)
 ![image](Screenshot(18).png)
 ![image](Screenshot(19).png)
